@@ -1,0 +1,44 @@
+ul {
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+}
+
+li {
+  position: relative; left: 100px; bottom: 50px;
+  
+}
+
+header {
+  background-color: grey;
+}
+
+img {
+  padding-top: 30px;
+}
+
+main li {
+  padding-top: 70px;
+  margin: auto;
+  display: block;
+}
+
+main img {
+  margin: auto;
+  display: block;
+}
+
+section img {
+  float:left;
+  padding-left: 300px;
+}
+
+div {
+ width: 10%;
+ height: 10%;
+}
+
+div p {
+  overflow: auto;
+
+}
